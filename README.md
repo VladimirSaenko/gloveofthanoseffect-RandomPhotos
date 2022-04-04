@@ -1,4 +1,4 @@
-# Random-Picsum-Gradients-Photos
+# gloveofthanos-RandomPhoto/s
 
 ## Сайт с эффектом как у перчатки Бесконечности и случайными изображениями
 
@@ -6,4 +6,4 @@
 
 ## Codepen: https://codepen.io/vladimirsaenko/pen/wvqgWze 
 
-## Второй сайт: https://vladimirsaenko.github.io/Random-Picsum-Gradients-Photos-2/
+## Второй сайт: 
