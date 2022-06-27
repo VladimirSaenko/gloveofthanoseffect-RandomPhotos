@@ -10,8 +10,3 @@ for(let i = 1; i < 400; i++) {
     blocks[i].style.animationDuration = 2 + duration + 's';
     blocks[i].style.animationDelay = duration + 's';
 }
-
-setTimeout(function() {
-    section.classList.add('active');
-    location.reload();
-}, 13500)
